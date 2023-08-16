@@ -5,7 +5,7 @@
 
 
 ## Architecture:
-![Project diagram](.images/proj5.jpg)
+![Project diagram](./images/proj5.jpg)
 
 ## Tools and Services Used
 | Tools | USE | 
