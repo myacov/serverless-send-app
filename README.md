@@ -29,6 +29,8 @@ This project will only be using tools supported by the Free Tier. The costs gene
 
 ## Implementation
 
+1. Create a Lambda Roles with SES, SNS and step function priviliges
+2. Send Email using SES and Lambda
 ## Prerequisites:
 - active AWS account
 
@@ -38,4 +40,4 @@ This project will only be using tools supported by the Free Tier. The costs gene
 #### References and Documentation: 
 
 
- 
+ serverless_step_function_role
